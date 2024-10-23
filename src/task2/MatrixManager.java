@@ -1,5 +1,8 @@
 package task2;
 import java.util.Scanner;
+//Напишите программу для управления разными типами операций на матрицах (сложение, умножение, определение определителя) с использованием абстрактной фабрики.
+
+
 public class MatrixManager {
     private MatrixOperationFactory factory;
 

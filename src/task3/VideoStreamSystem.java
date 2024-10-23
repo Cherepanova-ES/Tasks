@@ -1,6 +1,7 @@
 package task3;
 import java.util.HashMap;
 import java.util.Map;
+//Создайте систему управления видеопотоком, которая может передавать видео на разные устройства (телевизоры, мониторы, проекторы) с использованием паттерна "мост".
 
 public class VideoStreamSystem {
     private Map<String, VideoStreamManager> managers = new HashMap<>();

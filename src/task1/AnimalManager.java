@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 //вариант 5//
+//Напишите программу для управления разными видами домашних животных (собаки, кошки, попугаи) с помощью фабричного метода.
 
 public class AnimalManager {
     private List<Animal> animals = new ArrayList<>();
