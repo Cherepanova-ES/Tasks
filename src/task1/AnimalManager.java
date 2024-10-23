@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-
+//вариант 5//
 
 public class AnimalManager {
     private List<Animal> animals = new ArrayList<>();
